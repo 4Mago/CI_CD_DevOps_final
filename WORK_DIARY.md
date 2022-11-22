@@ -2,7 +2,7 @@
 3Magoos
 
 ## Members
-Zsofia, Marcus, Fredrik Ba
+Zsofia, Marcus B, Fredrik Ba
 
 ## Work Diary
 
