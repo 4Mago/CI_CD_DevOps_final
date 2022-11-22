@@ -1,16 +1,9 @@
-# Team
-3Magoos
+# Team name
 
-## Members
-Zsofia, Marcus, Fredrik Ba
+## Team members
 
 ## Work Diary
 
 ### Day 1
-Setup repro<br />
-Deploy simple code<br />
-Start create a testcase<br />
-
-Next up:<br />
 
 ### Day 3
