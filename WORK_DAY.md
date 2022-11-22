@@ -19,6 +19,7 @@ Test run scripts<br />
 
 Next:<br />
 Latency images<br />
+Documentation Workflow Git<br />
 Discussion branches<br />
  - dev<br />
  - doc<br />
