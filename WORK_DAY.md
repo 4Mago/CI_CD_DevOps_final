@@ -9,11 +9,11 @@ Zsofia, Marcus B, Fredrik Ba
 ### Day 1
 Set up repro<br />
 Set up workflow Git<br />
+Branch - dev<br />
 Set up start scripts<br />
  - network<br />
  - flask<br />
  - db<br />
-Branch - dev<br />
 
 Test run scripts<br />
 
